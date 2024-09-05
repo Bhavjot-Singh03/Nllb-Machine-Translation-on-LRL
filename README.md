@@ -15,7 +15,7 @@ Implementation details:
 
 - The original dataset contains translations from **Hindi -> Kinnauri** and **Hindi -> Kangri**.
 - To fine-tune `nllb-200-distilled-600M` to generate translations from **English -> Kinnauri** and **English -> Kangri**, a dataset in the appropriate form is required.
-- **[1-data-ingestion]**: Generates English sentences corresponding to the Hindi sentences present in the original datasets utilizing `nllb-200-distilled-600M` “base”.
+- **[1-data-ingestion](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/1-data-ingestion.ipynb)**: Generates English sentences corresponding to the Hindi sentences present in the original datasets utilizing `nllb-200-distilled-600M` “base”.
 
 # 2. Fine-tuning
 
