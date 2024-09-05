@@ -17,10 +17,10 @@ Implementation details:
 - [1-data-ingestion]: Generates English sentences corresponding to the Hindi sentences present in the original datasets utilizing nllb-200-distilled-600M “base”.
 
 2. Fine-tuning
-The model is fine-tuned on English->Kinnauri and English->Kangri datasets for 15 & 10 epochs respectively however, batch size of 8 is utilized in Kinnauri compared to 6
-in Kangri [Reason: Larger data size in case of Kangri].
+  The model is fine-tuned on English->Kinnauri and English->Kangri datasets for 15 & 10 epochs respectively however, batch size of 8 is utilized in Kinnauri compared to 6
+  in Kangri [Reason: Larger data size in case of Kangri].
 
-The following general steps are followed in case of both Kinnauri and Kangri:
+  The following general steps are followed in case of both Kinnauri and Kangri:
 - The NllbTokenizer has predefined language codes as per Flores-200.
 - Introduced language codes for Kinnauri (kang_Deva) and Kangri (kangri_Deva)
 following the naming conventions for Hindi (hin_Deva).
