@@ -30,7 +30,7 @@ The following general steps are followed for both **Kinnauri** and **Kangri**:
 
 ### Kinnauri
 
-- **[2.0-english-kinnauri-ft]**, **[2.1-english-kinnauri-evaluation]**, **[2.2-english-kinnauri-result]** contain the implementation of **English -> Kinnauri** translations, “sacrebleu” evaluation, and the generated translations compared with the actual translations.
+- **[2.0-english-kinnauri-ft](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/2-english-kinnauri-ft.ipynb)**, **[2.1-english-kinnauri-evaluation](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/2.1-english-kinnauri-evaluation.ipynb)**, **[2.2-english-kinnauri-result](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/2.2-english-kinnauri-result.ipynb)** contain the implementation of **English -> Kinnauri** translations, “sacrebleu” evaluation, and the generated translations compared with the actual translations.
 
 - **Evaluation score:**
   - **Kinnauri**:
@@ -48,7 +48,7 @@ The following general steps are followed for both **Kinnauri** and **Kangri**:
 
 ### Kangri
 
-- **[3.0-english-kangri-ft]**, **[3.1-english-kangri-evaluation]**, **[3.2-english-kangri-result]** contain the implementation of **English -> Kangri** translations, “sacrebleu” evaluation, and the generated translations compared with the actual translations.
+- **[3.0-english-kangri-ft](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/3.0-english-kangri-ft.ipynb)**, **[3.1-english-kangri-evaluation](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/3.1-english-kangri-evaluation.ipynb)**, **[3.2-english-kangri-result](https://github.com/Bhavjot-Singh03/Nllb-Machine-Translation-on-LRL/blob/main/3.2-english-kangri-results.ipynb)** contain the implementation of **English -> Kangri** translations, “sacrebleu” evaluation, and the generated translations compared with the actual translations.
 
 - **Evaluation score:**
   - **Kangri**:
